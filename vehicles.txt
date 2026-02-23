@@ -1,0 +1,13 @@
+11
+16
+Car,LEH-9080,Honda,Civic,White,2021,4.5,4,Petrol,
+Car,KJU-9878,BMW,M-5,Black,2023,8.9,4,Petrol,
+Bike,AUU-1567,Kawasaki,Ninja H2R,Black,2020,34.3,Sports,998,
+Truck,GHY-8398,Hyundai,L-100,Grey,2019,34.2,200,150,
+Bike,HYG-8348,Honda,CBR-1000-RRR,Red,2019,34.1,Sports,1000,
+Car,KJU-9086,Honda,Accord,Grey,2014,12.4,4,Petrol,
+Car,AAA-1234,Audi,A6,Black,2021,12.3,4,Petrol,
+Bike,DER-8272,Yamaha,R1,Blue,2015,23.5,Sports,1000,
+Bike,HYG-3822,BMW,S1000RR,Black,2012,23.6,Sports,1000,
+Bike,HGF-7388,Suzuki,Hayabusa,Golden,2012,19.4,Sports,1370,
+Car,GHY-1000,Rolls Royce,Phantom,Black,2021,34.3,4,Hybrid,
