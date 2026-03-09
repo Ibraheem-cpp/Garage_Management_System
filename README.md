@@ -8,11 +8,14 @@ Features:
 4. Dynamic Garage capacity that doubles when full.
 
 How to compile and run:
+```bash
 g++ Garage.cpp -o garage
 ./garage
+```
 
 Usage:
 7 (1-6 + 0) menu options:
+
 0. Exit Program.
 1. Show all vehicles
 2. Add new Car.
